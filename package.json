@@ -1,0 +1,14 @@
+{
+  "name": "pi-nb-cli-skill",
+  "version": "1.0.0",
+  "description": "A pi skill for Jupyter notebook operations via the nb CLI",
+  "keywords": ["pi-package"],
+  "pi": {
+    "skills": ["./skills"]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/microbial-pangenomes-lab/pi-nb-cli-skill.git"
+  },
+  "license": "BSD-3-Clause"
+}
