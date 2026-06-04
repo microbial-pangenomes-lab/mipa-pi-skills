@@ -1,7 +1,7 @@
 {
   "name": "pi-nb-cli-skill",
   "version": "1.0.0",
-  "description": "A pi skill for Jupyter notebook operations via the nb CLI",
+  "description": "A collection of pi skills curated by the Microbial Pangenomes Lab",
   "keywords": ["pi-package"],
   "pi": {
     "skills": ["./skills"]
